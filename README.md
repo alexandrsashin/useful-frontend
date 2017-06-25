@@ -3,6 +3,9 @@
 ## Common questions
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm
 
+## CSS
+Animation effects library: https://daneden.github.io/animate.css/
+
 ## Learning sources
 
 Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
