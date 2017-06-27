@@ -3,6 +3,8 @@
 ## Common questions
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm
 
+Get colors and typography info about webpage: http://stylifyme.com 
+
 ## CSS
 Animation effects library: https://daneden.github.io/animate.css/
 
