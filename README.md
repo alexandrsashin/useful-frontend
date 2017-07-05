@@ -11,6 +11,9 @@ MoscowJS meetups https://www.facebook.com/groups/moscowjs
 ## Useful websites on web-technologies
 Publications for front-end developers https://medium.com/front-end-hacking
 
+## Chats
+List of Russian Telegram channels on web-development: https://github.com/aiboy/awesome-telegram-ru
+
 ## Articles
 From zero to Angular hero: https://blog.goyello.com/2017/06/14/zero-angular-hero/
 
