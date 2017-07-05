@@ -27,6 +27,9 @@ Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
 Learn to code and build projects for nonprofits: https://www.freecodecamp.org  
 North America’s largest front-end development firm, specializing in React and Angular: https://rangle.io
 
+## Libraries
+Lebab transpiles your ES5 code to ES6/ES7: https://lebab.io
+
 ## Angular
 Official documentation on Angular: https://angular.io  
 Learn Angular2 through app creation from Firebase team: https://angular-presentation.firebaseapp.com  
