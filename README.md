@@ -33,7 +33,9 @@ Learn to code and build projects for nonprofits: https://www.freecodecamp.org
 North America’s largest front-end development firm, specializing in React and Angular: https://rangle.io
 
 ## Libraries
-Lebab transpiles your ES5 code to ES6/ES7: https://lebab.io
+Lebab transpiles your ES5 code to ES6/ES7: https://lebab.io  
+GreenSock Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations: https://greensock.com  
+CreateJS (a suite of JavaScript libraries and tools designed for working with HTML5): http://createjs.com  
 
 ## Angular
 Official documentation on Angular: https://angular.io  
