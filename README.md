@@ -26,3 +26,10 @@ Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
 ## Community
 Learn to code and build projects for nonprofits: https://www.freecodecamp.org  
 North America’s largest front-end development firm, specializing in React and Angular: https://rangle.io
+
+## Angular
+Official documentation on Angular: https://angular.io  
+Learn Angular2 through app creation from Firebase team: https://angular-presentation.firebaseapp.com  
+
+Angular CLI (fast start for app building): https://github.com/angular/angular-cli  
+Angular4 Webpack Starter (an Angular Starter kit featuring Angular 4): https://github.com/angularclass/angular-starter
