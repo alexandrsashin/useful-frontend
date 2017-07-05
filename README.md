@@ -2,7 +2,6 @@
 
 ## Common questions
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm
-
 Get colors and typography info about webpage: http://stylifyme.com 
 
 ## Meetups and conferences
@@ -23,5 +22,4 @@ Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
 
 ## Community
 Learn to code and build projects for nonprofits: https://www.freecodecamp.org
-
 North America’s largest front-end development firm, specializing in React and Angular: https://rangle.io
