@@ -9,7 +9,7 @@ Get colors and typography info about webpage: http://stylifyme.com
 RuFrontendEvents information about Russian conferences and meetups: https://www.facebook.com/rufrontendevents
 MoscowJS meetups https://www.facebook.com/groups/moscowjs
 
-# Useful websites on web-technologies
+## Useful websites on web-technologies
 Publications for front-end developers https://medium.com/front-end-hacking
 
 ## Articles
