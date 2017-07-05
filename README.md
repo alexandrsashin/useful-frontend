@@ -21,7 +21,12 @@ From zero to Angular hero: https://blog.goyello.com/2017/06/14/zero-angular-hero
 Animation effects library: https://daneden.github.io/animate.css/
 
 ## Learning sources
+HTML Academy (interactive online courses on HTML, CSS, JavaScript): https://htmlacademy.ru  
 Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
+
+## Podcasts
+Веб-стандарты (frontend news of the week): https://soundcloud.com/web-standards  
+Frontend Weekend (weekly podcast about the world of frontend-development): https://soundcloud.com/frontend-weekend
 
 ## Community
 Learn to code and build projects for nonprofits: https://www.freecodecamp.org  
