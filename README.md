@@ -9,7 +9,8 @@ RuFrontendEvents information about Russian conferences and meetups: https://www.
 MoscowJS meetups https://www.facebook.com/groups/moscowjs
 
 ## Useful websites on web-technologies
-Publications for front-end developers https://medium.com/front-end-hacking
+Publications for front-end developers https://medium.com/front-end-hacking  
+Angular blog: http://angularjs.blogspot.ru
 
 ## Chats
 List of Russian Telegram channels on web-development: https://github.com/aiboy/awesome-telegram-ru
