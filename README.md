@@ -37,6 +37,10 @@ Lebab transpiles your ES5 code to ES6/ES7: https://lebab.io
 GreenSock Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations: https://greensock.com  
 CreateJS (a suite of JavaScript libraries and tools designed for working with HTML5): http://createjs.com  
 
+## Styleguide
+Styleguide on Angular 1 from John Papa: https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md  
+Official styleguide on Angular from Google: https://angular.io/guide/styleguide
+
 ## Angular
 Official documentation on Angular: https://angular.io  
 Learn Angular2 through app creation from Firebase team: https://angular-presentation.firebaseapp.com  
