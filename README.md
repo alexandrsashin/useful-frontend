@@ -18,6 +18,9 @@ List of Russian Telegram channels on web-development: https://github.com/aiboy/a
 ## Articles
 From zero to Angular hero: https://blog.goyello.com/2017/06/14/zero-angular-hero/
 
+## Videos
+Бешеные псы: Angular 2 vs React (Евгений Гусев, Илья Таратухин). РИТ++, Москва 2017.06.05: https://www.youtube.com/watch?v=SQoD-YPOysY
+
 ## CSS
 Animation effects library: https://daneden.github.io/animate.css/
 
