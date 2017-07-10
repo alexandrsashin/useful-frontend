@@ -20,9 +20,10 @@ From zero to Angular hero: https://blog.goyello.com/2017/06/14/zero-angular-hero
 
 ## Videos
 2016  
-2016.06.01 55+1 прием для улучшения Javascript-кода (Татьяна Бабич). Frontend Conf, Москва: https://www.youtube.com/watch?v=ZqhYX8Ogftg  
-2016.06.01 Angular 2 не так уж и плох... А если задуматься, то и просто хорош (Алексей Охрименко). Frontend Conf, Москва: https://www.youtube.com/watch?v=72O1NdWT_58  
-2017.06.05 Бешеные псы: Angular 2 vs React (Евгений Гусев, Илья Таратухин). РИТ++, Москва: https://www.youtube.com/watch?v=SQoD-YPOysY
+2016.06.01 "55+1 прием для улучшения Javascript-кода" (Татьяна Бабич). Frontend Conf, Москва: https://www.youtube.com/watch?v=ZqhYX8Ogftg  
+2016.06.01 "Angular 2 не так уж и плох... А если задуматься, то и просто хорош" (Алексей Охрименко). Frontend Conf, Москва: https://www.youtube.com/watch?v=72O1NdWT_58  
+2017  
+2017.06.05 "Бешеные псы: Angular 2 vs React" (Евгений Гусев, Илья Таратухин). РИТ++, Москва: https://www.youtube.com/watch?v=SQoD-YPOysY
 
 ## CSS
 Animation effects library: https://daneden.github.io/animate.css/
