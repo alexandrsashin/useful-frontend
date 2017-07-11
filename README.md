@@ -10,7 +10,8 @@ MoscowJS meetups https://www.facebook.com/groups/moscowjs
 
 ## Useful websites on web-technologies
 Publications for front-end developers https://medium.com/front-end-hacking  
-Angular blog: http://angularjs.blogspot.ru
+Angular blog: http://angularjs.blogspot.ru  
+Alligator.io - frontend web development, chewed up: https://alligator.io/  
 
 ## Cool websites
 Green Chameleon - Award Winning Bristol based Design Agency: https://www.craftedbygc.com  
