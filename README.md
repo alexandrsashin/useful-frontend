@@ -45,6 +45,7 @@ North America’s largest front-end development firm, specializing in React and 
 
 ## Libraries
 Lebab transpiles your ES5 code to ES6/ES7: https://lebab.io  
+Ng-Bootstrap - Bootstrap widgets for Angular: https://ng-bootstrap.github.io  
 GreenSock Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations: https://greensock.com  
 CreateJS (a suite of JavaScript libraries and tools designed for working with HTML5): http://createjs.com  
 
