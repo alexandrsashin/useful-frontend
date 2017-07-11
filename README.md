@@ -29,9 +29,6 @@ Get Started with Remote Debugging Android Devices: https://developers.google.com
 2017  
 2017.06.05 "Бешеные псы: Angular 2 vs React" (Евгений Гусев, Илья Таратухин). РИТ++, Москва: https://www.youtube.com/watch?v=SQoD-YPOysY
 
-## CSS
-Animation effects library: https://daneden.github.io/animate.css/
-
 ## Learning sources
 HTML Academy (interactive online courses on HTML, CSS, JavaScript): https://htmlacademy.ru  
 Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
@@ -45,6 +42,8 @@ Learn to code and build projects for nonprofits: https://www.freecodecamp.org
 North America’s largest front-end development firm, specializing in React and Angular: https://rangle.io
 
 ## Libraries
+Animation effects library: https://daneden.github.io/animate.css/  
+
 Lebab transpiles your ES5 code to ES6/ES7: https://lebab.io  
 Ng-Bootstrap - Bootstrap widgets for Angular: https://ng-bootstrap.github.io  
 GreenSock Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations: https://greensock.com  
