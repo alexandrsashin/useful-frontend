@@ -19,7 +19,8 @@ Green Chameleon - Award Winning Bristol based Design Agency: https://www.crafted
 List of Russian Telegram channels on web-development: https://github.com/aiboy/awesome-telegram-ru
 
 ## Articles
-From zero to Angular hero: https://blog.goyello.com/2017/06/14/zero-angular-hero/
+From zero to Angular hero: https://blog.goyello.com/2017/06/14/zero-angular-hero/  
+Get Started with Remote Debugging Android Devices: https://developers.google.com/web/tools/chrome-devtools/remote-debugging/
 
 ## Videos
 2016  
