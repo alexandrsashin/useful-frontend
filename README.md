@@ -10,6 +10,7 @@ MoscowJS meetups https://www.facebook.com/groups/moscowjs
 
 ## Useful websites on web-technologies
 Publications for front-end developers https://medium.com/front-end-hacking  
+Courses, tutorials, workshops on Web Development: https://scotch.io
 Angular blog: http://angularjs.blogspot.ru  
 Alligator.io - frontend web development, chewed up: https://alligator.io/  
 
