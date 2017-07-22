@@ -17,6 +17,10 @@ Alligator.io - frontend web development, chewed up: https://alligator.io/
 ## Cool websites
 Green Chameleon - Award Winning Bristol based Design Agency: https://www.craftedbygc.com  
 
+## Groups in social networks
+Angular - RU: https://vk.com/club149556741
+Angular - RU: https://www.facebook.com/groups/1818344448397380/
+
 ## Chats
 List of Russian Telegram channels on web-development: https://github.com/aiboy/awesome-telegram-ru
 
@@ -34,6 +38,10 @@ Get Started with Remote Debugging Android Devices: https://developers.google.com
 ## Learning sources
 HTML Academy (interactive online courses on HTML, CSS, JavaScript): https://htmlacademy.ru  
 Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
+
+## Learning videos
+AngularJS уроки by Monsterlessons: https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP  
+AngularJS - уроки по созданию Trello: https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXR3K_HNw4EIdBE8YeK7H3
 
 ## Podcasts
 Веб-стандарты (frontend news of the week): https://soundcloud.com/web-standards  
