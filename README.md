@@ -41,7 +41,8 @@ Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
 
 ## Learning videos
 AngularJS уроки by Monsterlessons: https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP  
-AngularJS - уроки по созданию Trello: https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXR3K_HNw4EIdBE8YeK7H3
+AngularJS - уроки по созданию Trello: https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXR3K_HNw4EIdBE8YeK7H3  
+Code AngularJS 2.0 With Me by Lyrad Digital: https://www.youtube.com/playlist?list=PLsS7rcLJIvNNxNi3I5L97Mg7akN-EwSCm
 
 ## Podcasts
 Веб-стандарты (frontend news of the week): https://soundcloud.com/web-standards  
