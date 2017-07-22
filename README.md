@@ -18,7 +18,7 @@ Alligator.io - frontend web development, chewed up: https://alligator.io/
 Green Chameleon - Award Winning Bristol based Design Agency: https://www.craftedbygc.com  
 
 ## Groups in social networks
-Angular - RU: https://vk.com/club149556741
+Angular - RU: https://vk.com/club149556741  
 Angular - RU: https://www.facebook.com/groups/1818344448397380/
 
 ## Chats
