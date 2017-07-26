@@ -11,7 +11,7 @@ MoscowJS meetups https://www.facebook.com/groups/moscowjs
 ## Useful websites on web-technologies
 Publications for front-end developers https://medium.com/front-end-hacking  
 Courses, tutorials, workshops on Web Development: https://scotch.io  
-Angular blog: http://angularjs.blogspot.ru  
+Tutorials and screencasts covering JS libs, frameworks and more: https://thinkster.io  
 Alligator.io - frontend web development, chewed up: https://alligator.io/  
 
 ## Cool websites
@@ -67,6 +67,7 @@ Official styleguide on Angular from Google: https://angular.io/guide/styleguide
 ## Angular
 Official documentation on Angular: https://angular.io  
 Learn Angular2 through app creation from Firebase team: https://angular-presentation.firebaseapp.com  
+Angular blog: http://angularjs.blogspot.ru  
 
 Angular CLI (fast start for app building): https://github.com/angular/angular-cli  
 Angular4 Webpack Starter (an Angular Starter kit featuring Angular 4): https://github.com/angularclass/angular-starter
