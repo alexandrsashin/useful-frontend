@@ -73,6 +73,9 @@ Angular blog: http://angularjs.blogspot.ru
 Angular CLI (fast start for app building): https://github.com/angular/angular-cli  
 Angular4 Webpack Starter (an Angular Starter kit featuring Angular 4): https://github.com/angularclass/angular-starter
 
+## React
+How to learn React: https://github.com/rtivital/react-things
+
 ## Jobs
 Find the job that fits your life: https://www.glassdoor.com  
 Find JavaScript jobs: https://telegram.me/javascript_jobs
