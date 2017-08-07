@@ -76,6 +76,11 @@ Angular4 Webpack Starter (an Angular Starter kit featuring Angular 4): https://g
 ## React
 How to learn React: https://github.com/rtivital/react-things
 
+A command line interface for React web applications: https://github.com/facebookincubator/create-react-app
+
+## Vju
+A simple CLI for scaffolding Vue.js projects: https://github.com/vuejs/vue-cli
+
 ## Jobs
 Find the job that fits your life: https://www.glassdoor.com  
 Find JavaScript jobs: https://telegram.me/javascript_jobs
