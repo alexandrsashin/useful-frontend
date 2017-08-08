@@ -5,6 +5,7 @@ HTML color codes and names: https://www.computerhope.com/htmcolor.htm
 Get colors and typography info about webpage: http://stylifyme.com 
 
 ## Tools
+GitHub is a web-based Git or version control repository and Internet hosting service: https://github.com  
 GitBook is where you create, write and organize documentation and books with your team: https://www.gitbook.com
 
 ## Meetups and conferences
