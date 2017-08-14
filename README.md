@@ -16,6 +16,7 @@ MoscowJS meetups https://www.facebook.com/groups/moscowjs
 Publications for front-end developers https://medium.com/front-end-hacking  
 Courses, tutorials, workshops on Web Development: https://scotch.io  
 Tutorials and screencasts covering JS libs, frameworks and more: https://thinkster.io  
+HTML5 Rocks - A resource for open web HTML5 developers: https://www.html5rocks.com  
 Alligator.io - frontend web development, chewed up: https://alligator.io/  
 
 ## Cool websites
