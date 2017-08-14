@@ -5,6 +5,8 @@ HTML color codes and names: https://www.computerhope.com/htmcolor.htm
 Get colors and typography info about webpage: http://stylifyme.com 
 
 ## Tools
+Android Studio - the official IDE for Android, that provides the fastest tools for building apps on every type of Android device: https://developer.android.com/studio/index.html  
+
 GitHub is a web-based Git or version control repository and Internet hosting service: https://github.com  
 GitBook is where you create, write and organize documentation and books with your team: https://www.gitbook.com  
 jsPerf - a performance playground for JavaScript developers: https://jsperf.com
