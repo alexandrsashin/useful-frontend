@@ -6,7 +6,8 @@ Get colors and typography info about webpage: http://stylifyme.com
 
 ## Tools
 GitHub is a web-based Git or version control repository and Internet hosting service: https://github.com  
-GitBook is where you create, write and organize documentation and books with your team: https://www.gitbook.com
+GitBook is where you create, write and organize documentation and books with your team: https://www.gitbook.com  
+jsPerf - a performance playground for JavaScript developers: https://jsperf.com
 
 ## Meetups and conferences
 RuFrontendEvents information about Russian conferences and meetups: https://www.facebook.com/rufrontendevents  
