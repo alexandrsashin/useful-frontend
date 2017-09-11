@@ -2,7 +2,7 @@
 
 ## Common questions
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm  
-Get colors and typography info about webpage: http://stylifyme.com 
+Get colors and typography info about webpage: http://stylifyme.com  
 Fake Online REST API for Testing and Prototyping: http://jsonplaceholder.typicode.com  
 
 ## Tools
