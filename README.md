@@ -3,6 +3,7 @@
 ## Common questions
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm  
 Get colors and typography info about webpage: http://stylifyme.com 
+Fake Online REST API for Testing and Prototyping: http://jsonplaceholder.typicode.com  
 
 ## Tools
 Android Studio - the official IDE for Android, that provides the fastest tools for building apps on every type of Android device: https://developer.android.com/studio/index.html  
