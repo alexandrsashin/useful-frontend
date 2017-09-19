@@ -3,7 +3,7 @@
 ## Common questions
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm  
 Get colors and typography info about webpage: http://stylifyme.com  
-Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript: https://regex101.com/  
+Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript: https://regex101.com  
 Fake Online REST API for Testing and Prototyping: http://jsonplaceholder.typicode.com  
 
 ## Tools
