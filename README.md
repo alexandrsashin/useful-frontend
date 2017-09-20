@@ -48,6 +48,7 @@ Get Started with Remote Debugging Android Devices: https://developers.google.com
 2017.06.05 "Бешеные псы: Angular 2 vs React" (Евгений Гусев, Илья Таратухин). РИТ++, Москва: https://www.youtube.com/watch?v=SQoD-YPOysY
 
 ## Learning sources
+Resourse with maps how to learn anything: https://learn-anything.xyz  
 HTML Academy (interactive online courses on HTML, CSS, JavaScript): https://htmlacademy.ru  
 Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
 
