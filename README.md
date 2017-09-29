@@ -85,6 +85,7 @@ Ng-Bootstrap - Bootstrap widgets for Angular: https://ng-bootstrap.github.io
 Simple, clean and engaging HTML5 based JavaScript charts: www.chartjs.org/  
 D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS: https://d3js.org/  
 WebGL (Web Graphics Library) is a JavaScript API for rendering 3D graphics: www.khronos.org/webgl/  
+Cross-browser JavaScript library/API used to create and display animated 3D computer graphics in a web browser: https://threejs.org/  
 GreenSock Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations: https://greensock.com  
 CreateJS (a suite of JavaScript libraries and tools designed for working with HTML5): http://createjs.com  
 
