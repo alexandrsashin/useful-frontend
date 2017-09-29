@@ -50,7 +50,8 @@ Get Started with Remote Debugging Android Devices: https://developers.google.com
 ## Learning sources
 Resourse with maps how to learn anything: https://learn-anything.xyz  
 HTML Academy (interactive online courses on HTML, CSS, JavaScript): https://htmlacademy.ru  
-Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com
+Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com  
+The Book of Shaders: https://thebookofshaders.com/  
 
 ## Learning videos
 AngularJS уроки by Monsterlessons: https://www.youtube.com/playlist?list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP  
@@ -65,15 +66,25 @@ Frontend Weekend (weekly podcast about the world of frontend-development): https
 Learn to code and build projects for nonprofits: https://www.freecodecamp.org  
 North America’s largest front-end development firm, specializing in React and Angular: https://rangle.io
 
-## Libraries
+## Libraries  
+**CSS**  
 Animation effects library: https://daneden.github.io/animate.css/  
 
+**Utilties**  
 Lodash - JavaScript utility library: https://lodash.com/  
 Underscore - JavaScript utility library: http://underscorejs.org/  
 Ramda - JavaScript utility library: http://ramdajs.com/  
 
+**Helpers for development**  
 Lebab transpiles your ES5 code to ES6/ES7: https://lebab.io  
+
+**Components**  
 Ng-Bootstrap - Bootstrap widgets for Angular: https://ng-bootstrap.github.io  
+
+**Graphics**  
+Simple, clean and engaging HTML5 based JavaScript charts: www.chartjs.org/  
+D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS: https://d3js.org/  
+WebGL (Web Graphics Library) is a JavaScript API for rendering 3D graphics: www.khronos.org/webgl/  
 GreenSock Animation Platform (GSAP) is a suite of tools for scripted, high-performance HTML5 animations: https://greensock.com  
 CreateJS (a suite of JavaScript libraries and tools designed for working with HTML5): http://createjs.com  
 
