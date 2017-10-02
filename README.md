@@ -50,6 +50,7 @@ Get Started with Remote Debugging Android Devices: https://developers.google.com
 ## Learning sources
 Resourse with maps how to learn anything: https://learn-anything.xyz  
 HTML Academy (interactive online courses on HTML, CSS, JavaScript): https://htmlacademy.ru  
+JavaScript book from MDN: https://developer.mozilla.org/en-US/docs/Web/JavaScript  
 Learn WebGL and 3D algorithmic for free: http://www.webglacademy.com  
 The Book of Shaders: https://thebookofshaders.com/  
 
@@ -77,6 +78,7 @@ Ramda - JavaScript utility library: http://ramdajs.com/
 
 **Helpers for development**  
 Lebab transpiles your ES5 code to ES6/ES7: https://lebab.io  
+The compiler for writing next generation JavaScript: http://babeljs.io  
 
 **Components**  
 Ng-Bootstrap - Bootstrap widgets for Angular: https://ng-bootstrap.github.io  
