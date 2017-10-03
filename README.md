@@ -83,6 +83,9 @@ The compiler for writing next generation JavaScript: http://babeljs.io
 **Components**  
 Ng-Bootstrap - Bootstrap widgets for Angular: https://ng-bootstrap.github.io  
 
+**Widgets**  
+Cool draggable library from Shopify: https://shopify.github.io/draggable/
+
 **Graphics**  
 Simple, clean and engaging HTML5 based JavaScript charts: www.chartjs.org/  
 D3 is a JavaScript library for visualizing data with HTML, SVG, and CSS: https://d3js.org/  
