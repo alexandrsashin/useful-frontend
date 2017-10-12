@@ -6,6 +6,13 @@ Get colors and typography info about webpage: http://stylifyme.com
 Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript: https://regex101.com  
 Fake Online REST API for Testing and Prototyping: http://jsonplaceholder.typicode.com  
 
+## Sandboxes  
+Plunker is an online community for creating, collaborating on and sharing your web development ideas: http://plnkr.co  
+CodePen is a social development environment for front-end designers and developer: https://codepen.io  
+Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor: https://jsfiddle.net  
+Code, compile, and run code in 30+ programming languages: http://repl.it  
+A live pastebin for HTML, CSS & JavaScript and a range of processors: https://jsbin.com  
+
 ## Tools
 Android Studio - the official IDE for Android, that provides the fastest tools for building apps on every type of Android device: https://developer.android.com/studio/index.html  
 
