@@ -1,27 +1,27 @@
 # useful-frontend
 
 ## Development
-**Sandboxes**
+**Sandboxes**  
 Plunker is an online community for creating, collaborating on and sharing your web development ideas: http://plnkr.co  
 CodePen is a social development environment for front-end designers and developer: https://codepen.io  
 Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor: https://jsfiddle.net  
 Code, compile, and run code in 30+ programming languages: http://repl.it  
 A live pastebin for HTML, CSS & JavaScript and a range of processors: https://jsbin.com  
 
-**Tools**
+**Tools**  
 Android Studio - the official IDE for Android, that provides the fastest tools for building apps on every type of Android device: https://developer.android.com/studio/index.html  
 
 GitHub is a web-based Git or version control repository and Internet hosting service: https://github.com  
 GitBook is where you create, write and organize documentation and books with your team: https://www.gitbook.com  
 jsPerf - a performance playground for JavaScript developers: https://jsperf.com
 
-**Common questions**
+**Common questions**  
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm  
 Get colors and typography info about webpage: http://stylifyme.com  
 Online regex tester, debugger with highlighting for PHP, PCRE, Python, Golang and JavaScript: https://regex101.com  
 Fake Online REST API for Testing and Prototyping: http://jsonplaceholder.typicode.com  
 
-**Styleguide**
+**Styleguide**  
 Airbnb JavaScript Style Guide: https://github.com/airbnb/javascript  
 Styleguide on Angular 1 from John Papa: https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md  
 Official styleguide on Angular from Google: https://angular.io/guide/styleguide  
@@ -99,7 +99,7 @@ Ng-Bootstrap - Bootstrap widgets for Angular: https://ng-bootstrap.github.io
 **Widgets**  
 Cool draggable library from Shopify: https://shopify.github.io/draggable/
 
-**Angular**
+**Angular**  
 Official documentation on Angular: https://angular.io  
 Learn Angular2 through app creation from Firebase team: https://angular-presentation.firebaseapp.com  
 Angular blog: http://angularjs.blogspot.ru  
@@ -107,12 +107,12 @@ Angular blog: http://angularjs.blogspot.ru
 Angular CLI (fast start for app building): https://github.com/angular/angular-cli  
 Angular4 Webpack Starter (an Angular Starter kit featuring Angular 4): https://github.com/angularclass/angular-starter
 
-**React**
+**React**  
 How to learn React: https://github.com/rtivital/react-things
 
 A command line interface for React web applications: https://github.com/facebookincubator/create-react-app
 
-**Vju**
+**Vju**  
 A simple CLI for scaffolding Vue.js projects: https://github.com/vuejs/vue-cli
 
 **Graphics**  
