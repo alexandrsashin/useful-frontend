@@ -13,7 +13,8 @@ Android Studio - the official IDE for Android, that provides the fastest tools f
 
 GitHub is a web-based Git or version control repository and Internet hosting service: https://github.com  
 GitBook is where you create, write and organize documentation and books with your team: https://www.gitbook.com  
-jsPerf - a performance playground for JavaScript developers: https://jsperf.com
+jsPerf - a performance playground for JavaScript developers: https://jsperf.com  
+Character codes: https://websitebuilders.com/tools/html-codes/a-z/
 
 **Common questions**  
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm  
