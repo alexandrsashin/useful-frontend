@@ -37,6 +37,7 @@ Courses, tutorials, workshops on Web Development: https://scotch.io
 Tutorials and screencasts covering JS libs, frameworks and more: https://thinkster.io  
 HTML5 Rocks - a resource for open web HTML5 developers: https://www.html5rocks.com  
 Alligator.io - frontend web development, chewed up: https://alligator.io/  
+Коллекция видео с IT-событий: https://devtube.ru  
 
 ## Cool websites
 Green Chameleon - Award Winning Bristol based Design Agency: https://www.craftedbygc.com  
