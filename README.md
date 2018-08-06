@@ -15,6 +15,7 @@ GitHub is a web-based Git or version control repository and Internet hosting ser
 GitBook is where you create, write and organize documentation and books with your team: https://www.gitbook.com  
 jsPerf - a performance playground for JavaScript developers: https://jsperf.com  
 Character codes: https://websitebuilders.com/tools/html-codes/a-z/
+Online Resources For Web Developers from Bradley Traversy: https://gist.github.com/bradtraversy/61171a9b81586f5bc4c0ca1e2beb59ab
 
 **Common questions**  
 HTML color codes and names: https://www.computerhope.com/htmcolor.htm  
