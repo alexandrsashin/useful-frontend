@@ -98,6 +98,7 @@ The compiler for writing next generation JavaScript: http://babeljs.io
 
 **Components**  
 Ng-Bootstrap - Bootstrap widgets for Angular: https://ng-bootstrap.github.io  
+Free mobile touch slider: https://swiperjs.com/  
 
 **Widgets**  
 Cool draggable library from Shopify: https://shopify.github.io/draggable/
