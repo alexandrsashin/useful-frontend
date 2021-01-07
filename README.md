@@ -112,12 +112,16 @@ Angular CLI (fast start for app building): https://github.com/angular/angular-cl
 Angular4 Webpack Starter (an Angular Starter kit featuring Angular 4): https://github.com/angularclass/angular-starter
 
 **React**  
-How to learn React: https://github.com/rtivital/react-things
+How to learn React: https://github.com/rtivital/react-things  
+React for Beginners: https://www.freecodecamp.org/news/react-beginner-handbook/
 
 A command line interface for React web applications: https://github.com/facebookincubator/create-react-app
 
 **Vju**  
 A simple CLI for scaffolding Vue.js projects: https://github.com/vuejs/vue-cli
+
+**Errors cases**  
+List of post-mortems: https://github.com/danluu/post-mortems
 
 **Graphics**  
 Simple, clean and engaging HTML5 based JavaScript charts: www.chartjs.org/  
