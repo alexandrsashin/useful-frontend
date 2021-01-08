@@ -27,6 +27,9 @@ Airbnb JavaScript Style Guide: https://github.com/airbnb/javascript
 Styleguide on Angular 1 from John Papa: https://github.com/johnpapa/angular-styleguide/blob/master/a1/README.md  
 Official styleguide on Angular from Google: https://angular.io/guide/styleguide  
 
+**NPM packages**  
+Compare NPM package downloads: https://www.npmtrends.com/
+
 ## Meetups and conferences
 RuFrontendEvents information about Russian conferences and meetups: https://www.facebook.com/rufrontendevents  
 MoscowJS meetups https://www.facebook.com/groups/moscowjs
