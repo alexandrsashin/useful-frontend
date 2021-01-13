@@ -33,6 +33,9 @@ Compare NPM package downloads: https://www.npmtrends.com/
 **Optimization**  
 Optimize your libraries with webpack: https://github.com/GoogleChromeLabs/webpack-libs-optimizations  
 
+## GitHub  
+Dynamically generated GitHub stats: https://github.com/anuraghazra/github-readme-stats
+
 ## Meetups and conferences
 RuFrontendEvents information about Russian conferences and meetups: https://www.facebook.com/rufrontendevents  
 MoscowJS meetups https://www.facebook.com/groups/moscowjs
