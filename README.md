@@ -34,7 +34,8 @@ Compare NPM package downloads: https://www.npmtrends.com/
 Optimize your libraries with webpack: https://github.com/GoogleChromeLabs/webpack-libs-optimizations  
 
 ## GitHub  
-Dynamically generated GitHub stats: https://github.com/anuraghazra/github-readme-stats
+Dynamically generated GitHub stats: https://github.com/anuraghazra/github-readme-stats  
+GitHub Profile Readme Generator: https://arturssmirnovs.github.io/github-profile-readme-generator/
 
 ## Meetups and conferences
 RuFrontendEvents information about Russian conferences and meetups: https://www.facebook.com/rufrontendevents  
