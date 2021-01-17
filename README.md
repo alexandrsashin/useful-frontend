@@ -31,10 +31,10 @@ Official styleguide on Angular from Google: https://angular.io/guide/styleguide
 Compare NPM package downloads: https://www.npmtrends.com/
 
 **Markup**
-Слова, часто используемые в CSS-классах: https://github.com/yoksel/common-words
-Простые правила разметки: http://yoksel.github.io/easy-markup/
-Простой CSS: https://yoksel.github.io/easy-css/
-HTML & CSS: как не надо: https://yoksel.github.io/bad-practices/
+Слова, часто используемые в CSS-классах: https://github.com/yoksel/common-words  
+Простые правила разметки: http://yoksel.github.io/easy-markup/  
+Простой CSS: https://yoksel.github.io/easy-css/  
+HTML & CSS: как не надо: https://yoksel.github.io/bad-practices/  
 
 **Optimization**  
 Optimize your libraries with webpack: https://github.com/GoogleChromeLabs/webpack-libs-optimizations  
