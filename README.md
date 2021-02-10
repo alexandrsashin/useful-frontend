@@ -55,6 +55,7 @@ HTML5 Rocks - a resource for open web HTML5 developers: https://www.html5rocks.c
 Alligator.io - frontend web development, chewed up: https://alligator.io/  
 Коллекция видео с IT-событий: https://devtube.ru  
 Frontend web development resources: https://github.com/RitikPatni/Front-End-Web-Development-Resources#table-of-contents  
+Developers roadmap: https://github.com/fullstack-development/developers-roadmap  
 
 ## Cool websites
 Green Chameleon - Award Winning Bristol based Design Agency: https://www.craftedbygc.com  
