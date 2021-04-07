@@ -69,7 +69,8 @@ List of Russian Telegram channels on web-development: https://github.com/aiboy/a
 
 ## Articles
 From zero to Angular hero: https://blog.goyello.com/2017/06/14/zero-angular-hero/  
-Get Started with Remote Debugging Android Devices: https://developers.google.com/web/tools/chrome-devtools/remote-debugging/
+Get Started with Remote Debugging Android Devices: https://developers.google.com/web/tools/chrome-devtools/remote-debugging/  
+Vanilla JavaScript Code Snippets: https://www.smashingmagazine.com/2021/04/vanilla-javascript-code-snippets/  
 
 ## Videos
 2016  
