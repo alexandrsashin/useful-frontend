@@ -131,7 +131,8 @@ Angular4 Webpack Starter (an Angular Starter kit featuring Angular 4): https://g
 
 **React**  
 How to learn React: https://github.com/rtivital/react-things  
-React for Beginners: https://www.freecodecamp.org/news/react-beginner-handbook/
+React for Beginners: https://www.freecodecamp.org/news/react-beginner-handbook/  
+React+TypeScript Cheatsheets: https://github.com/typescript-cheatsheets/react
 
 A command line interface for React web applications: https://github.com/facebookincubator/create-react-app
 
